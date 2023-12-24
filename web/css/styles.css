@@ -1,3 +1,7 @@
 /*
     Entry point
  */
+
+@import 'lib/variables.css';
+@import 'lib/typography.css';
+//@magento_import 'module.css';
